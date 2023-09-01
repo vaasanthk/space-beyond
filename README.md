@@ -37,4 +37,8 @@ Clone this repo
 https://github.com/vaasanthk/space-beyond.git
 ```
 
+Deployed on vercel:
+https://space-beyond.vercel.app/
+
+
 # Thank you!
